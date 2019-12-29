@@ -86,13 +86,17 @@ public class MainWindow extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
-        jButton1.setText("jButton1");
+        jButton1.setFont(new java.awt.Font("Iskoola Pota", 1, 18)); // NOI18N
+        jButton1.setText("භාණ්ඩ");
 
-        jButton2.setText("jButton1");
+        jButton2.setFont(new java.awt.Font("Iskoola Pota", 1, 18)); // NOI18N
+        jButton2.setText("විකිණීම් ");
 
-        jButton3.setText("jButton1");
+        jButton3.setFont(new java.awt.Font("Iskoola Pota", 1, 18)); // NOI18N
+        jButton3.setText("වාර්තා ");
 
-        jButton4.setText("jButton1");
+        jButton4.setFont(new java.awt.Font("Iskoola Pota", 1, 18)); // NOI18N
+        jButton4.setText("පරිශීලකයන් ");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
