@@ -48,9 +48,9 @@ public class MainWindow extends javax.swing.JFrame {
         jlblDate.setForeground(new java.awt.Color(255, 255, 255));
         jlblDate.setText("date");
 
-        jLabel2.setFont(new java.awt.Font("Cooper Black", 0, 48)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Iskoola Pota", 1, 48)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Company Name");
+        jLabel2.setText("කුරුණෑගල ස්ටෝර්ස්");
 
         jlblTime.setFont(new java.awt.Font("Cooper Black", 0, 18)); // NOI18N
         jlblTime.setForeground(new java.awt.Color(255, 255, 255));
